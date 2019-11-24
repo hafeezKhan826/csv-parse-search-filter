@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/csv-parse-search-filter/react-app/static/css/main.595ea794.chunk.css",
-    "main.js": "/csv-parse-search-filter/react-app/static/js/main.f26e67f5.chunk.js",
-    "main.js.map": "/csv-parse-search-filter/react-app/static/js/main.f26e67f5.chunk.js.map",
-    "runtime-main.js": "/csv-parse-search-filter/react-app/static/js/runtime-main.324a111b.js",
-    "runtime-main.js.map": "/csv-parse-search-filter/react-app/static/js/runtime-main.324a111b.js.map",
-    "static/js/2.9a47ed66.chunk.js": "/csv-parse-search-filter/react-app/static/js/2.9a47ed66.chunk.js",
-    "static/js/2.9a47ed66.chunk.js.map": "/csv-parse-search-filter/react-app/static/js/2.9a47ed66.chunk.js.map",
-    "index.html": "/csv-parse-search-filter/react-app/index.html",
-    "precache-manifest.648dc27e53a8768b7c5edb1ebafa063e.js": "/csv-parse-search-filter/react-app/precache-manifest.648dc27e53a8768b7c5edb1ebafa063e.js",
-    "service-worker.js": "/csv-parse-search-filter/react-app/service-worker.js",
-    "static/css/main.595ea794.chunk.css.map": "/csv-parse-search-filter/react-app/static/css/main.595ea794.chunk.css.map"
+    "main.css": "/csv-parse-search-filter/static/css/main.595ea794.chunk.css",
+    "main.js": "/csv-parse-search-filter/static/js/main.cff17db5.chunk.js",
+    "main.js.map": "/csv-parse-search-filter/static/js/main.cff17db5.chunk.js.map",
+    "runtime-main.js": "/csv-parse-search-filter/static/js/runtime-main.0c02d68e.js",
+    "runtime-main.js.map": "/csv-parse-search-filter/static/js/runtime-main.0c02d68e.js.map",
+    "static/js/2.9a47ed66.chunk.js": "/csv-parse-search-filter/static/js/2.9a47ed66.chunk.js",
+    "static/js/2.9a47ed66.chunk.js.map": "/csv-parse-search-filter/static/js/2.9a47ed66.chunk.js.map",
+    "index.html": "/csv-parse-search-filter/index.html",
+    "precache-manifest.b7ce2fe42c44b9118f1dd4ab9277fc03.js": "/csv-parse-search-filter/precache-manifest.b7ce2fe42c44b9118f1dd4ab9277fc03.js",
+    "service-worker.js": "/csv-parse-search-filter/service-worker.js",
+    "static/css/main.595ea794.chunk.css.map": "/csv-parse-search-filter/static/css/main.595ea794.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.324a111b.js",
+    "static/js/runtime-main.0c02d68e.js",
     "static/js/2.9a47ed66.chunk.js",
     "static/css/main.595ea794.chunk.css",
-    "static/js/main.f26e67f5.chunk.js"
+    "static/js/main.cff17db5.chunk.js"
   ]
 }
